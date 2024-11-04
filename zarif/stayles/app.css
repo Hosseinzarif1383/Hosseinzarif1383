@@ -1,0 +1,43 @@
+
+
+
+/*nav section*/
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items:center;
+margin-left: 50rem;
+margin-top: -4rem;
+
+}
+.container{
+padding-left: 1.5rem;
+padding-right: 1.5rem;
+margin-left: auto;
+margin-right:auto;
+}
+.nav{
+    
+
+}
+.nav_wrappe{
+   
+
+}
+.menue-list{
+    display: flex;;
+    gap: 2rem;
+
+}
+.menue-list_item{
+    font-family:"Outfit-regular";
+    font-size: 13px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    margin-right: auto;
+    
+
+}            
+

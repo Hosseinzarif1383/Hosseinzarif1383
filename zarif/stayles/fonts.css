@@ -1,0 +1,29 @@
+@font-face {
+    font-family:"Outfit-regular" ;
+    src: url("../fonts/Outfit-Regular.ttf") format("trutype");
+}
+
+@font-face {
+    font-family:"inter-bold" ;
+    src: url("../fonts/Inter_18pt-Bold.ttf") format("trutype");
+}
+
+@font-face {
+    font-family:"inter-semi bold" ;
+    src: url("../fonts/Inter_18pt-Bold.ttf") format("trutype");}
+
+
+    @font-face {
+        font-family:"Outfit-regular" ;
+        src: url("../fonts/Outfit-Regular.ttf") format("trutype");}
+
+        @font-face {
+            font-family:"Outfit-medium" ;
+            src: url("../fonts/Outfit-Regular.ttf") format("trutype");}
+
+
+            @font-face {
+                font-family:"Outfit-mixed" ;
+                src: url("../fonts/Outfit-Regular.ttf") format("trutype");}
+
+                
